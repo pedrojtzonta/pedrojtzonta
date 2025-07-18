@@ -15,56 +15,25 @@ Minha caixa de ferramentas de desenvolvimento inclui:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![PHP](https://img.shields.io/badge/PHP-232323?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
 #### **Banco de Dados**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
----
-
-## 🚀 Projetos Principais
-
-Abaixo estão alguns projetos que desenvolvi. Para ver mais, visite meus repositórios.
-
-<details>
-  <summary><strong>Projeto 1: Sistema de Gerenciamento [Nome do Sistema]</strong></summary>
-  
-  - **Descrição:** Uma aplicação web completa para [descreva o objetivo, ex: gerenciar inventário, agendar serviços]. Desenvolvido com uma API RESTful em Python e um front-end interativo.
-  - **Tecnologias:** Python (Flask/Django), JavaScript, HTML/CSS, PostgreSQL.
-  - **Links:**
-    - <a href="[LINK_PARA_O_REPOSITORIO]">**Repositório no GitHub**</a>
-    - <a href="[LINK_PARA_A_APLICACAO_ONLINE]">**Aplicação Online**</a>
-</details>
-
-<details>
-  <summary><strong>Projeto 2: Website Institucional [Nome da Empresa/Projeto]</strong></summary>
-  
-  - **Descrição:** Website responsivo com foco em performance e experiência do usuário. O projeto envolveu a estruturação do conteúdo e a otimização para motores de busca (SEO).
-  - **Tecnologias:** HTML5, CSS3, JavaScript.
-  - **Links:**
-    - <a href="[LINK_PARA_O_REPOSITORIO]">**Repositório no GitHub**</a>
-    - <a href="[LINK_PARA_A_APLICACAO_ONLINE]">**Website Online**</a>
-</details>
-
-<details>
-  <summary><strong>Projeto 3: Ferramenta de Análise de Dados [Nome da Ferramenta]</strong></summary>
-  
-  - **Descrição:** Script em Python para extrair, transformar e carregar (ETL) dados de múltiplas fontes para um banco de dados centralizado (SQL Server), preparando os dados para análise.
-  - **Tecnologias:** Python, SQL Server.
-  - **Links:**
-    - <a href="[LINK_PARA_O_REPOSITORIO]">**Repositório no GitHub**</a>
-</details>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas" />
-</p>
+#### **Análise de Dados**
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/pt-br/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/pt-br)
+[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
 ---
 
