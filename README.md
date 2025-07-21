@@ -11,7 +11,8 @@ Meu objetivo é criar soluções digitais que sejam ao mesmo tempo eficientes, e
 
 Minha caixa de ferramentas de desenvolvimento inclui:
 
-#### **Desenvolvimento Web**
+### **Desenvolvimento Web** 
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,7 +21,7 @@ Minha caixa de ferramentas de desenvolvimento inclui:
 
 ### **Frameworks**
 
-[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
+[![Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
